@@ -1,1 +1,5 @@
-xyz file
+<<<<<<< HEAD
+abcd
+=======
+abcd
+>>>>>>> master
